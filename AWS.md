@@ -8,5 +8,5 @@
     
     [AWS baseSetting](Metaverse-team-Project/AWS%20baseSetting.md)
 
-    [AWS Node.js](Metaverse-team-Project/AWS%20ubuntu-Node%20js.md)
+    [AWS Node.js](Metaverse-team-Project/AWS%20ubuntu-Node.js%20insert.md)
   
