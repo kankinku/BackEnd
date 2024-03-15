@@ -5,3 +5,5 @@
 [Linux - server.listen()](Metaverse-team-Project/Linux%20-%20server%20listen()%2072fbdb07c8c1469390a1a4c5866a3bdc.md)
 
 [Linux - cp](Metaverse-team-Project/Linux%20-%20cp%20a8eb090da40845f09d2f6f99335454c4.md)
+
+[Linux - lightsail upload](Metaverse-team-Project/Linux%20-%20lightsail%20upload%2015d947c4d7d44d8b8be54cd56e7c39a4.md)
